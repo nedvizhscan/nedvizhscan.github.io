@@ -4,7 +4,7 @@
 
 Автор: Кирилл Крылов, основатель сервиса [НедвижСкан](https://nedvizhscan.ru/).
 
-Сайт рассчитан на GitHub Pages репозитория `nedvizhscan.github.io` и будет открываться по адресу https://nedvizhscan.github.io/. Репозиторий пока только локальный, пуша нет.
+Сайт рассчитан на GitHub Pages репозитория `kiruxa-coder.github.io` и будет открываться по адресу https://kiruxa-coder.github.io/. Публичный репозиторий: https://github.com/kiruxa-coder/kiruxa-coder.github.io
 
 ## Страницы
 

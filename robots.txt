@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nedvizhscan.github.io/sitemap.xml
+Sitemap: https://kiruxa-coder.github.io/sitemap.xml
